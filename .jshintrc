@@ -1,0 +1,5 @@
+{
+    "predef: ["document", "jQuery", "$", "console"],
+    "eversion": 6,
+    "globalstrict": true
+}
